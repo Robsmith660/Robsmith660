@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Robsmith660
+- 👀 I’m interested in full stack develpmonet and machine learning.
+- 📫 How to reach me: robertpmsmith1@gmail.com
